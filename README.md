@@ -13,4 +13,4 @@ This project is a python/Django based web application to create short urls and r
 4. Apply migrations using "python manage.py migrate" using same terminal.
 5. Runserver using "python manage.py runserver" using same terminal.
 6. Goto to the url provided in terminal after successfully running server.
-7. This project uses SQLite as a default. This can be change from settings.py [Click here to know more](https://docs.djangoproject.com/en/3.2/ref/databases/)
+7. This project uses SQLite as a default database that do not require any extra setup. To use other database, configurations need to be change in settings.py  [Click here to know more](https://docs.djangoproject.com/en/3.2/ref/databases/)
